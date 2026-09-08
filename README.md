@@ -4,7 +4,7 @@ Randomized controlled trials focus on working-age outpatients. This repository d
 
 CITATION: Aranda-Rosas, A. E., Lozano-Garcia, L. J., Martinez-Robles, S., Gonzalez-Ballesteros, E., & Trejo-Rodriguez, M. A. (2026). Psilocybin for depressive and anxiety disorders (2022–2026): bibliometric arm of a hybrid bibliometric and meta-analytic study (Version v1.00) [Computer software]. Zenodo
 
-**Companion protocol:** `` (PRISMA-P structure, PRISMA-S search documentation). The meta-analysis component is registered in PROSPERO [CRD420261493650] on September 2, 2026, at 00:44 UTC, version 1.2, and the file is available in this same repository. 
+**Companion protocol:** `/workspaces/SIST.REV.BIBLIOMETRICO/docs/2 Protocolo/PROTOCOL 2.0.docx` (PRISMA-P structure, PRISMA-S search documentation). The meta-analysis component is registered in PROSPERO [CRD420261493650] on September 2, 2026, at 00:44 UTC, version 1.2, and the file is available in this same repository. 
 
 ## Search summary 
 
@@ -12,19 +12,76 @@ All searches conducted on September 5, 2026, will be updated in two months; a st
 
 Duplication prioritization: WOS > Scopus > PubMed; matches are first sought by normalized DOI and then by normalized title. 
 
-Full search strategies for every database are in `` and in the protocol.
+Full search strategies for every database are in `/workspaces/SIST.REV.BIBLIOMETRICO/docs/search_strategies.md` and in the protocol.
 
 ## Repository structure
 
 ```
-data/       corpus_unique_tridatabase.csv  (derived, deduplicated corpus: source, title, year, DOI, document type)
-scripts/    01_deduplication_pipeline.py   (executable pipeline actually used)
-            02_bibliometrix_replication.R  (replication in R/bibliometrix + VOSviewer export)
-results/    tables/  T0-T8 (PRISMA-S flow, annual production, sources, authors, countries, keywords, most cited, document types)
-            figures/ F1-F4 (600 dpi TIFF for submission + PNG previews)
-docs/       Protocol v1.0 (docx), search_strategies.md
+SIST.REV.BIBLIOMETRICO-main
+    │   CITATION.cff
+    │   LICENSE
+    │   README.md
+    │
+    ├───data
+    │   ├───processed
+    │   │       tridata
+    │   │
+    │   └───raw
+    │       │   ris
+    │       │
+    │       └───3 Estrategia de búsqueda
+    │           │   search_strategies.md
+    │           │
+    │           ├───Bibliometric arm
+    │           │       pubmed.csv-psilocybTi-set.csv
+    │           │       savedrecs (1) WOS 5SEPT.ris
+    │           │       savedrecs (2) WOS 5SEPT.ris
+    │           │
+    │           └───SYST.REV
+    │                   csv-psilocybTi-set.csv
+    │                   ris (3).ris
+    │
+    ├───docs
+    │   │   datos
+    │   │   search_strategies.md
+    │   │
+    │   ├───1 Planeación
+    │   │       PROTOCOLO PSILO-FIRMADO.pdf
+    │   │
+    │   └───2 Protocolo
+    │           prospero 3108.pdf
+    │           PROTOCOL 2.0.docx
+    │           Protocol_Psilocybin_Depression_Anxiety_v2.0 - Spanish (Mexico).docx
+    │
+    ├───results
+    │   └───EVIDENCIAS
+    │       ├───10 Revisión final
+    │       │       CALENDARIO 4 SEPT .png
+    │       │       CHEK
+    │       │       LINK PARA EL CHEKLIST
+    │       │
+    │       ├───4 Búsqueda bibliográfica
+    │       │       aarchivosdenusquedas
+    │       │
+    │       ├───5 Selección de estudios
+    │       │       plantillas
+    │       │
+    │       ├───6 Extracción de datos
+    │       │       DIAGRAMA DE FLUJO PRISMA 2020
+    │       │
+    │       ├───7 Evaluación de calidad
+    │       │       intro final
+    │       │       metodologia
+    │       │
+    │       ├───8 Síntesis
+    │       │       resultados
+    │       │
+    │       └───9 Redacción
+    │               borrador y resumen
+    │
+    └───scripts
+            scripts de R o Python para limpiar datos, eliminar duplicados o generar gráficos
 ```
-
 ## Raw database exports
 
 Raw exports from Web of Science, Scopus and PubMed are not redistributed in this repository because their licenses do not permit public redistribution of full records. They are fully regenerable with the documented strategies and dates, and are available from the corresponding author for verification purposes.
