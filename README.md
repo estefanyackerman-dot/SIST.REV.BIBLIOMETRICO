@@ -84,15 +84,16 @@ SIST.REV.BIBLIOMETRICO-main
 ```
 ## Raw database exports
 
-Raw exports from Web of Science, Scopus and PubMed are not redistributed in this repository because their licenses do not permit public redistribution of full records. They are fully regenerable with the documented strategies and dates, and are available from the corresponding author for verification purposes.
+Raw exports from Web of Science, Scopus, and PubMed are not redistributed in this repository because their licenses do not permit the public redistribution of the complete records. They are fully reproducible by following the documented strategies and dates, and are available through the corresponding author for verification; a command was executed to hide these files and continue with the planned workflow. 
 
-## Key descriptive results
+## Key Descriptive Findings from the Bibliometric Analysis
 
 Annual production grew at a compound rate of 27.3 percent (2022 to 2025); 2026 is partial at the search date. Leading countries: USA, United Kingdom, Canada, Australia, Switzerland. The most frequent non-generic author keywords (lsd, ketamine, mdma, psychedelic-assisted therapy, psychotherapy) locate the corpus within the comparative psychedelic therapeutics literature.
 
 ## Reproducibility
 
 Python 3.12 with pandas and matplotlib for the executed pipeline; R (>= 4.3) with bibliometrix for replication and network analyses. See scripts for details.
+Excel and Zotero were used for the systematic review.
 
 ## License and citation
 
