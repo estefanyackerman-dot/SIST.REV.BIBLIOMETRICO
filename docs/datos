@@ -1,0 +1,8 @@
+ Contiene todos los archivos de datos agrupados por etapas del proceso.
+
+ data/: Contiene todos los archivos de datos agrupados por etapas del proceso.
+ data/raw/: Exportaciones originales de las bases de datos (Scopus, PubMed, etc.) en formatos como .bib, .ris o .csv sin modificar
+ data/processed/: Bases de datos finales tras eliminar duplicados y aplicar los criterios de inclusión/exclusión.
+ docs/: Documentación adicional del proyecto. Incluye el protocolo de la revisión (si no está registrado en PROSPERO), guías de cribado y el manual de codificación.
+ scripts/ o code/: Código utilizado para la automatización del proceso (por ejemplo, scripts de R o Python para limpiar datos, eliminar duplicados o generar gráficos).
+ results/: Resultados del análisis, incluyendo las tablas de extracción de datos, figuras de la síntesis y el diagrama de flujo PRISMA final.
