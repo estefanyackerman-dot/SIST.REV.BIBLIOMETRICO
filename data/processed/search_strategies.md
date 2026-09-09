@@ -23,7 +23,7 @@ Search: "psilocyb*"[Title/Abstract] OR (("psilocybin"[MeSH Terms] OR "psilocybe"
 ```
 Retrieved: 654. Export: CSV summary / MEDLINE.
 
-## Meta-analytic arm (restrictive strategies; execution pending PROSPERO confirmation)
+## Meta-analytic arm (restrictive strategies; )
 
 **PubMed**
 ```
@@ -45,8 +45,20 @@ APA PsycInfo <1806 to August 2026 Week 3> 287
 •		limit  to yr="2022 -Current" HITS 675
 
 
-**medRxiv** medRxiv THE PREPRINT SERVER FOR HEALTH SCIENCES (complementary preprint source, includes medRxiv)
+**Web of Science Core Collection** (advanced search) 
+```
+Query #1 : ((TI=(psilocybin) OR TI=(psilocybe) OR TI=("psilocibin") OR AB=(psilocybin) OR AB=(psilocybe) OR AB=("psilocibin"))) AND (((TS=("depression and anxiety")) OR TS=(dysthymia)) OR (TI=("depression") OR TI=("depressive") OR TI=("anxiety") OR AB=("depression") OR AB=("depressive") OR AB=("anxiety")))
+ 
+Query #2 : (((((TS=(MDMA ) OR TS=(parkinson)) OR TS=(cancer)) OR TS=(alcoholism)) OR TI=("systematic review") OR TI=(meta-analysis) OR TI=("metaanalysis")) OR DT=(Retraction OR Record Review)) OR TI=(post-traumatic stress disorder)
 
+SEARCH: #1 NOT #2
+```
+Refined By: Publication Years: 2026 or 2025 or 2023 or 2024 or 2022.Document Types: Article. RESULTS: 278
+https://www.webofscience.com/wos/woscc/summary/c6c6de22-2160-40ed-93e5-b5971e18b64d-01c73c5b4a/relevance/1
+
+## Complementary search of preprints 
+
+**medRxiv** medRxiv THE PREPRINT SERVER FOR HEALTH SCIENCES (complementary preprint source, includes medRxiv)
 ```
 for term "psilocybin " and title "psilocybin or psilocibine or psiloc* and (depress* or anxiet* or anxious))" (match all words) and abstract or title "clinical trail" (match all words) and posted between "01 Jan, 2022 and 31 Dec, 2026"
 ```
@@ -54,12 +66,14 @@ for term "psilocybin " and title "psilocybin or psilocibine or psiloc* and (depr
 
 
 **Europe PMC** (complementary preprint source, includes medRxiv)
-
 ```
 (( ( TITLE_ABS:psilocyb* OR TITLE_ABS:"psilocybin" OR TITLE_ABS:psilocybe* ) AND ( TITLE_ABS:depress* OR TITLE_ABS:anxiety OR TITLE_ABS:"depressive disorder" OR TITLE_ABS:"anxiety disorders" ) AND ( TITLE_ABS:randomi* OR TITLE_ABS:"randomized controlled trial" OR TITLE_ABS:"clinical trial" ) ) NOT ( TITLE_ABS:"systematic review" OR TITLE_ABS:"meta-analysis" ) OR ( TITLE_ABS:psilocyb* OR TITLE_ABS:psilocybe* OR TITLE_ABS:LSD OR TITLE_ABS:lysergic OR TITLE_ABS:ayahuasca OR TITLE_ABS:iboga* OR TITLE_ABS:MDMA OR TITLE_ABS:DMT OR TITLE_ABS:peyote OR TITLE_ABS:mescaline ) AND ( TITLE_ABS:depress* OR TITLE_ABS:anxiety OR TITLE_ABS:"depressive disorder" OR TITLE_ABS:"anxiety disorders" ) ) AND (SRC:PPR) AND (FIRST_PDATE:[2022 TO 2026])
 ```
-
 RESULTS: 29
+
+
+
+
 
 ## Deduplication
 
