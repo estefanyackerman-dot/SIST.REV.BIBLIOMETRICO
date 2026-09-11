@@ -1,12 +1,10 @@
-METODOLOGIA
+# METODOLOGIA
 
-## Marco de registro e informes
+## **Marco de registro e informes**
 
 Este protocolo sigue a PRISMA-P 2015 en su estructura, Para la realización de las estrategias de búsqueda de siguió  PRISMA-S y PRISMA 2020 para el reporte de la revisión completa.
 El componente de metaanálisis está registrado en PROSPERO [CRD420261493650] el 2 de septiembre de 2026, a las 00:44 UTC, versión 1.2, y el archivo está disponible en este mismo repositorio
-
 ```repositorio./workspaces/SIST.REV.BIBLIOMETRICO/docs/2 Protocolo/PROTOCOL 2.0.docx```
-
 La sección bibliométrica completa —incluyendo documentación de búsqueda, proceso de deduplicación, corpus derivado, tablas y figuras— está disponible en Zenodo: https://doi.org/10.5281/zenodo.21893380
 El brazo bibliométrico no es elegible para PROSPERO y pero está documentado a través de  Zenodo y el repositorio asociado de GitHub, en los cuales se realiza el seguimiento de ambas partes
 
@@ -27,14 +25,9 @@ Brazo metaanalítico: PubMed,  todas las revistas de Ovid: (Referencias + Abstra
 Las fuentes obtenidas fueron filtradas en primera instancia por título y resumen, en donde se incluían, "psilocybin", "depression" y "anxiety”, posteriormente se realizó la lectura completa, la información de cada revisión, la cual se organizó de acuerdo con el tema “tratamiento con psilocibina para la depresión y ansiedad”. Todas las búsquedas se realizaron el mismo día y se documentaron completamente siguiendo PRISMA-S
 Cada proceso fue evaluado por dos revisores de manera independiente (AA)(LL), y cada conflicto derivado de la revisión fue arbitrado por los asesores de este proyecto y resuelto por consenso. (SM)(EB)
 
-## Criterios de elegibilidad
+# **Criterios de elegibilidad**
 
 Se incluyeron artículos de ensayos clínicos de acceso público, de los últimos 5 años, que evalúen la eficacia y seguridad de la terapia con psilocibina en pacientes con depresión y/o ansiedad, con comparador placebo, tratamiento habitual, activo o sin comparador. y que reporten desenlaces de eficacia y seguridad para determinar si es una mejor alternativa terapéutica
-
-
-
-
-
 
 ##Proceso de selección
 ##Proceso de recopilación de datos
