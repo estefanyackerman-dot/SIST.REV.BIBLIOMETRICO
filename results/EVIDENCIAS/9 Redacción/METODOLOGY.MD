@@ -4,8 +4,8 @@
 
 Este protocolo sigue a PRISMA-P 2015 en su estructura, Para la realización de las estrategias de búsqueda de siguió  PRISMA-S [^rethlefsenPRISMASExtensionPRISMA2021] y PRISMA 2020 [^pagePRISMA2020Explanation2021] para el reporte de la revisión completa.
 El componente de metaanálisis fue registrado en PROSPERO [CRD420261493650] el 2 de septiembre de 2026, a las 00:44 UTC, versión 1.2, y el archivo está disponible en este mismo repositorio [Protocolo](docs\2 Protocolo\PROTOCOL 2.0.docxO)
-La sección bibliométrica completa —incluyendo documentación de búsqueda, proceso de deduplicación, corpus derivado, tablas y figuras— está disponible en Zenodo: https://doi.org/10.5281/zenodo.21893380
-El brazo bibliométrico no es elegible para PROSPERO y pero está documentado a través de  Zenodo y el repositorio asociado de GitHub, en los cuales se realiza el seguimiento de ambas partes
+La sección bibliométrica completa —incluyendo documentación de búsqueda, proceso de deduplicación, corpus derivado, tablas y figuras— está disponible en Zenodo: https://doi.org/10.5281/zenodo.21893380 [^aranda-rosasPsilocybinDepressiveAnxiety2026]
+El brazo bibliométrico no es elegible para PROSPERO y pero está documentado a través de  Zenodo y el repositorio asociado de GitHub, en los cuales se realiza el seguimiento de ambas partes[^cqh4046PRISMAtrAIceREADMEmdMain]
 
 ## **Estrategia de búsqueda**
 
@@ -96,3 +96,4 @@ se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así co
 ##Evaluación de la certeza
 eza
 [^rethlefsenPRISMASExtensionPRISMA2021]: Rethlefsen, M. L., Kirtley, S., Waffenschmidt, S., Ayala, A. P., Moher, D., Page, M. J., Koffel, J. B., & PRISMA-S Group. (2021). PRISMA-S: An extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews. Systematic Reviews, 10(1), 39. https://doi.org/10.1186/s13643-020-01542-z
+[^aranda-rosasPsilocybinDepressiveAnxiety2026]: Aranda-Rosas, A. E., Lozano-Garcia, L. J., Martinez-Robles, S., Gonzalez-Ballesteros, E., & Trejo-Rodriguez, M. A. (2026). Psilocybin for depressive and anxiety disorders (2022-2026): Bibliometric arm of a hybrid bibliometric and meta-analytic study (Versión v1.00) [Software]. Zenodo. https://doi.org/10.5281/ZENODO.21893380
