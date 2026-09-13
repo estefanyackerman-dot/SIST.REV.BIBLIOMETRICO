@@ -1,4 +1,4 @@
-# yaml
+#yaml
 ---
 title: "Título del documento"
 subtitle: "Subtítulo opcional"
