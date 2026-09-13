@@ -1,6 +1,6 @@
-# Psilocybin for Depressive and Anxiety Disorders (2022–2026): Hybrid Bibliometric Analysis and Systematic Review 
+# Psilocybin for Depressive and Anxiety Disorders (2022–2026): Hybrid Bibliometric Analysis and Systematic Review
 
-Randomized controlled trials focus on working-age outpatients. This repository documents the progress of the systematic review. The complete bibliometric section—including search documentation, deduplication process, derived corpus, tables, and figures—is available on Zenodo: https://doi.org/10.5281/zenodo.21893380 
+Randomized controlled trials focus on working-age outpatients. This repository documents the progress of the systematic review. The complete bibliometric section—including search documentation, deduplication process, derived corpus, tables, and figures—is available on Zenodo: https://doi.org/10.5281/zenodo.21893380
 
 CITATION: Aranda-Rosas, A. E., Lozano-Garcia, L. J., Martinez-Robles, S., Gonzalez-Ballesteros, E., & Trejo-Rodriguez, M. A. (2026). Psilocybin for depressive and anxiety disorders (2022–2026): bibliometric arm of a hybrid bibliometric and meta-analytic study (Version v1.00) [Computer software]. Zenodo
 
