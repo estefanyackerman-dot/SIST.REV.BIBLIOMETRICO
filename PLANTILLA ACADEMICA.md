@@ -1,52 +1,57 @@
-# yaml
-
----
-title: "Psilocybin for Depressive and Anxiety Disorders (2022-2026): Hybrid Bibliometric Analysis and Systematic Review (protocol)"
-subtitle: "protocol"
-authors:
-  - family-names: Aranda-Rosas
-    given-names: Andrea Estefanía
-    affiliation: Facultad de Estudios Superiores Cuautitlán
-    orcid: 0009-0009-1822-0785
-  - family-names: Martínez-Robles
-    given-names: Socorro Sandra
-    affiliation: Facultad de Estudios Superiores Cuautitlán
-    orcid: 0000-0002-8367-0899
-  - family-names: Gonzalez-Ballesteros
-    given-names: Erik
-    affiliation: Facultad de Estudios Superiores Cuautitlán
-    orcid: 0000-0003-1997-9936
-  - family-names: Lozano-García
-    given-names: Leandro Jesús
-    affiliation: Facultad de Estudios Superiores Cuautitlán
-    orcid: 0009-0005-3680-9535
-  - family-names: Trejo-Rodríguez
-    given-names: Miguel Ángel
-    affiliation: Universidad Nacional Autónoma de México
-    orcid: 0000-0001-8251-6665
+# **yaml**
+ 
+ <title:>"Psilocybin for Depressive and Anxiety Disorders (2022-2026): Hybrid Bibliometric Analysis and Systematic Review (protocol)"
+<subtitle:> "protocol"
 date: "2026-09-12"
 lang: es-MX
 keywords:
-  - psilocybin
-  - depression
-  - anxiety
-  - bibliometrics
-  - systematic review
-  - psychedelic-assisted therapy
+- psilocybin
+- depression
+- anxiety
+- bibliometrics
+- systematic review
+- psychedelic-assisted therapy
 abstract: |
 bibliography: referencias.bib
 csl: ieee.csl
 link-citations: 10.5281/zenodo.22655408
----
+<authors:>
+
+- family-names: Aranda-Rosas
+    given-names: Andrea Estefanía
+    affiliation: Facultad de Estudios Superiores Cuautitlán
+    orcid: 0009-0009-1822-0785
+- family-names: Martínez-Robles
+    given-names: Socorro Sandra
+    affiliation: Facultad de Estudios Superiores Cuautitlán
+    orcid: 0000-0002-8367-0899
+- family-names: Gonzalez-Ballesteros
+    given-names: Erik
+    affiliation: Facultad de Estudios Superiores Cuautitlán
+    orcid: 0000-0003-1997-9936
+- family-names: Lozano-García
+    given-names: Leandro Jesús
+    affiliation: Facultad de Estudios Superiores Cuautitlán
+    orcid: 0009-0005-3680-9535
+- family-names: Trejo-Rodríguez
+    given-names: Miguel Ángel
+    affiliation: Universidad Nacional Autónoma de México
+    orcid: 0000-0001-8251-6665
+
+
 
 # "Psilocybin for Depressive and Anxiety Disorders (2022-2026): Hybrid Bibliometric Analysis and Systematic Review (protocol)"
 
 ## Resumen
 
-Presentar brevemente el problema, el objetivo, la metodología,  
-los resultados principales y la conclusión.
+**Palabras clave:**
 
-**Palabras clave:** término 1; término 2; término 3.
+- psilocybin
+- depression
+- anxiety
+- bibliometrics
+- systematic review
+- psychedelic-assisted therap
 
 ## Introducción
 
@@ -62,9 +67,9 @@ Establecer el objetivo principal del estudio.
 
 ### Objetivos específicos
 
-1.  Identificar...
-2.  Analizar...
-3.  Comparar...
+1. Identificar...
+2. Analizar...
+3. Comparar...
 
 ## Métodos
 
@@ -83,10 +88,10 @@ AND (systematic review OR meta-analysis)
 
 ### Criterios de elegibilidad
 
-*   **Inclusión:** estudios que...
-*   **Exclusión:** estudios que...
-*   **Idioma:** español, inglés y portugués.
-*   **Periodo:** especificar el intervalo correspondiente.
+* **Inclusión:** estudios que...
+* **Exclusión:** estudios que...
+* **Idioma:** español, inglés y portugués.
+* **Periodo:** especificar el intervalo correspondiente.
 
 ## Resultados
 
