@@ -1,7 +1,8 @@
-#  yaml
+# yaml
+
 ---
-title: "Título del documento"
-subtitle: "Subtítulo opcional"
+title: "Psilocybin for Depressive and Anxiety Disorders (2022-2026): Hybrid Bibliometric Analysis and Systematic Review (protocol)"
+subtitle: "protocol"
 authors:
   - family-names: Aranda-Rosas
     given-names: Andrea Estefanía
@@ -33,26 +34,25 @@ keywords:
   - systematic review
   - psychedelic-assisted therapy
 abstract: |
-  
 bibliography: referencias.bib
 csl: ieee.csl
 link-citations: 10.5281/zenodo.22655408
 ---
 
-# Título del documento
+# "Psilocybin for Depressive and Anxiety Disorders (2022-2026): Hybrid Bibliometric Analysis and Systematic Review (protocol)"
 
 ## Resumen
 
-Presentar brevemente el problema, el objetivo, la metodología,
+Presentar brevemente el problema, el objetivo, la metodología,  
 los resultados principales y la conclusión.
 
 **Palabras clave:** término 1; término 2; término 3.
 
 ## Introducción
 
-Describir el contexto, la importancia del problema y la justificación
-del estudio. Las citas pueden escribirse con Pandoc, por ejemplo:
-[@autor2024].
+Describir el contexto, la importancia del problema y la justificación  
+del estudio. Las citas pueden escribirse con Pandoc, por ejemplo:  
+\[@autor2024\].
 
 ## Objetivo
 
@@ -62,20 +62,20 @@ Establecer el objetivo principal del estudio.
 
 ### Objetivos específicos
 
-1. Identificar...
-2. Analizar...
-3. Comparar...
+1.  Identificar...
+2.  Analizar...
+3.  Comparar...
 
 ## Métodos
 
 ### Diseño del estudio
 
-Describir el diseño, la población, las fuentes de información y el periodo
+Describir el diseño, la población, las fuentes de información y el periodo  
 de búsqueda.
 
 ### Estrategia de búsqueda
 
-```text
+```
 ("biochemical diagnosis" OR biomarker*)
 AND (parasit* OR infection*)
 AND (systematic review OR meta-analysis)
@@ -83,10 +83,10 @@ AND (systematic review OR meta-analysis)
 
 ### Criterios de elegibilidad
 
-- **Inclusión:** estudios que...
-- **Exclusión:** estudios que...
-- **Idioma:** español, inglés y portugués.
-- **Periodo:** especificar el intervalo correspondiente.
+*   **Inclusión:** estudios que...
+*   **Exclusión:** estudios que...
+*   **Idioma:** español, inglés y portugués.
+*   **Periodo:** especificar el intervalo correspondiente.
 
 ## Resultados
 
@@ -97,23 +97,23 @@ Describir el proceso de identificación, cribado, elegibilidad e inclusión.
 ### Características de los estudios
 
 | Estudio | País | Diseño | Muestra | Resultado principal |
-|---|---|---|---:|---|
+| --- | --- | --- | --- | --- |
 | Autor et al. | México | Transversal | 120 | Resultado |
 | Autor et al. | Brasil | Cohorte | 250 | Resultado |
 
 ### Síntesis de resultados
 
-Presentar los resultados de forma ordenada, incluyendo estimaciones,
+Presentar los resultados de forma ordenada, incluyendo estimaciones,  
 intervalos de confianza y medidas de heterogeneidad cuando corresponda.
 
 ## Discusión
 
-Interpretar los hallazgos, compararlos con estudios previos y explicar
+Interpretar los hallazgos, compararlos con estudios previos y explicar  
 sus implicaciones metodológicas, clínicas o académicas.
 
 ## Limitaciones
 
-Describir las limitaciones del estudio, de las fuentes de información
+Describir las limitaciones del estudio, de las fuentes de información  
 y del análisis.
 
 ## Conclusiones
@@ -122,7 +122,7 @@ Presentar únicamente las conclusiones respaldadas por los resultados.
 
 ## Disponibilidad de datos
 
-Indicar dónde pueden consultarse los datos, protocolos, códigos o materiales
+Indicar dónde pueden consultarse los datos, protocolos, códigos o materiales  
 suplementarios.
 
 ## Declaraciones
@@ -143,19 +143,17 @@ Especificar las contribuciones según corresponda.
 
 Las referencias se generan automáticamente desde el archivo bibliográfico.
 
-
-
-proyecto/
-├── README.md
-├── manuscrito.md
-├── referencias.bib
-├── vancouver.csl
-├── datos/
-│   ├── datos_originales.csv
-│   └── datos_limpios.csv
-├── figuras/
-├── tablas/
-├── scripts/
+proyecto/  
+├── README.md  
+├── manuscrito.md  
+├── referencias.bib  
+├── vancouver.csl  
+├── datos/  
+│ ├── datos\_originales.csv  
+│ └── datos\_limpios.csv  
+├── figuras/  
+├── tablas/  
+├── scripts/  
 ├── suplementos/
 
 └── salida/
