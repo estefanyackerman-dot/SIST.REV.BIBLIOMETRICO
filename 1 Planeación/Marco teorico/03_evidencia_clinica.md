@@ -1,6 +1,6 @@
-# 3. Evidencia clínica en depresión y ansiedad
+## 2.3. Evidencia clínica en depresión y ansiedad
 
-## 3.1. Diseños de investigación y comparadores
+### 2.3.1. Diseños de investigación y comparadores
 
 La evidencia clínica contemporánea incluye ensayos aleatorizados, estudios
 abiertos, estudios piloto y revisiones sistemáticas. Los ensayos controlados
@@ -18,7 +18,7 @@ diagnósticos y medicación concomitante. La combinación de protocolos
 clínicamente distintos en una única estimación puede aumentar la
 heterogeneidad y producir una interpretación engañosa.
 
-## 3.2. Desenlaces de eficacia
+### 2.3.2. Desenlaces de eficacia
 
 Los desenlaces primarios deben incluir escalas validadas de depresión o
 ansiedad, idealmente administradas por evaluadores ciegos y complementadas con
@@ -38,7 +38,7 @@ niacina, con apoyo psicológico estandarizado dentro del protocolo
 permiten asumir eficacia universal ni equivalencia con tratamientos ya
 establecidos.
 
-## 3.3. Durabilidad, recaída y generalización
+### 2.3.3. Durabilidad, recaída y generalización
 
 La durabilidad debe evaluarse mediante mediciones repetidas y no por una única
 visita posterior. Es necesario diferenciar respuesta temprana, remisión,
@@ -55,7 +55,7 @@ La revisión debe señalar qué grupos quedan fuera de la evidencia y no present
 resultados obtenidos en muestras cuidadosamente seleccionadas como aplicables a
 toda la población con depresión o ansiedad.
 
-## 3.4. Seguridad, ideación suicida y riesgo de sesgo
+### 2.3.4. Seguridad, ideación suicida y riesgo de sesgo
 
 La seguridad constituye un dominio primario. Deben extraerse eventos adversos,
 eventos adversos graves, intensidad, duración, abandono, hospitalización,

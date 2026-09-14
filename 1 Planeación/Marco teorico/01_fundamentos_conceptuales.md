@@ -1,6 +1,6 @@
-# 1. Fundamentos conceptuales: psilocibina y salud mental
+## 2.1. Fundamentos conceptuales: psilocibina y salud mental
 
-## 1.1. Conceptualización farmacológica
+### 2.1.1. Conceptualización farmacológica
 
 La psilocibina es un profármaco indólico perteneciente al grupo de los
 psicodélicos clásicos. Tras su administración, se desfosforila para formar
@@ -23,7 +23,7 @@ la persona no ha sido adecuadamente seleccionada y acompañada. Por ello, deben
 separarse tres constructos: el efecto farmacológico agudo, la experiencia
 psicológica y el desenlace clínico posterior.
 
-## 1.2. Depresión, ansiedad y resistencia terapéutica
+### 2.1.2. Depresión, ansiedad y resistencia terapéutica
 
 El trastorno depresivo mayor es un síndrome heterogéneo caracterizado por
 alteraciones persistentes del estado de ánimo, anhedonia, motivación,
@@ -46,7 +46,7 @@ selección restringe la extrapolación hacia pacientes con menor gravedad,
 comorbilidad compleja, edades diferentes o riesgo agudo
 [@goodwin2022; @raison2023].
 
-## 1.3. Terapia asistida por psicodélicos como intervención multicomponente
+### 2.1.3. Terapia asistida por psicodélicos como intervención multicomponente
 
 La terapia asistida por psicodélicos se conceptualiza como una intervención
 multicomponente y no como farmacoterapia convencional de administración
@@ -67,7 +67,7 @@ distinción debe formularse como hipótesis y no como hecho establecido, puesto
 que muchos ensayos no están diseñados para separar los efectos del compuesto,
 del acompañamiento y de las expectativas.
 
-## 1.4. Modelo biopsicosocial de la intervención
+### 2.1.4. Modelo biopsicosocial de la intervención
 
 El presente marco organiza la investigación en tres niveles analíticos. El
 nivel biológico comprende la psilocibina, la psilocina, la señalización

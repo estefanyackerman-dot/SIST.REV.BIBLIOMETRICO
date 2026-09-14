@@ -1,6 +1,6 @@
-# 2. Bases farmacológicas y neurobiológicas
+## 2.2. Bases farmacológicas y neurobiológicas
 
-## 2.1. Biotransformación y farmacodinamia serotoninérgica
+### 2.2.1. Biotransformación y farmacodinamia serotoninérgica
 
 La psilocibina se convierte en psilocina mediante una reacción de
 desfosforilación. La psilocina presenta actividad agonista o agonista parcial
@@ -21,7 +21,7 @@ protocolo completo y las medidas empleadas para valorar la experiencia aguda.
 La comparación entre dosis no puede reducirse a una relación lineal entre
 miligramos y eficacia.
 
-## 2.2. Redes cerebrales, procesamiento emocional y flexibilidad cognitiva
+### 2.2.2. Redes cerebrales, procesamiento emocional y flexibilidad cognitiva
 
 Los modelos contemporáneos proponen que los psicodélicos pueden alterar
 transitoriamente la organización funcional de redes relacionadas con la
@@ -33,7 +33,7 @@ hipótesis de una “ventana de oportunidad” terapéutica debe considerarse
 provisional hasta que los estudios demuestren una relación reproducible entre
 los cambios de red y los desenlaces clínicos.
 
-## 2.3. Neuroplasticidad
+### 2.2.3. Neuroplasticidad
 
 La neuroplasticidad constituye una de las principales hipótesis
 neurobiológicas. La literatura experimental describe posibles cambios en
@@ -52,7 +52,7 @@ la relación entre plasticidad, experiencia subjetiva y respuesta terapéutica.
 En consecuencia, la neuroplasticidad representa una explicación plausible, no
 un sustituto de los desenlaces clínicos.
 
-## 2.4. Rapidez, duración y mecanismos de mantenimiento
+### 2.2.4. Rapidez, duración y mecanismos de mantenimiento
 
 La posibilidad de obtener un efecto antidepresivo rápido diferencia a la
 psilocibina de muchos tratamientos farmacológicos de administración diaria.

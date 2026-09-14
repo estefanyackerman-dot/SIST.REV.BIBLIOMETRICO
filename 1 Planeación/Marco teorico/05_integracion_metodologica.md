@@ -1,6 +1,6 @@
-# 5. Integración del marco teórico con la revisión sistemática y la bibliometría
+## 2.7. Integración del marco teórico con la revisión sistemática y la bibliometría
 
-## 5.1. Complementariedad de los enfoques
+### 2.7.1. Complementariedad de los enfoques
 
 La revisión sistemática y la bibliometría responden a preguntas relacionadas,
 pero no idénticas. La revisión sistemática sintetiza resultados de estudios
@@ -17,7 +17,7 @@ eficacia, seguridad ni relación causal. Por consiguiente, los resultados
 bibliométricos deben presentarse como contexto epistemológico y no como
 evidencia clínica.
 
-## 5.2. Niveles de análisis y unidad de inferencia
+### 2.7.2. Niveles de análisis y unidad de inferencia
 
 El estudio debe mantener separados tres niveles. El nivel documental incluye
 registros, artículos, autores, países, fuentes y palabras clave. El nivel
@@ -34,7 +34,7 @@ interpretación ecológica o pseudorreplicación. La deduplicación por DOI y t�
 normalizado, así como la documentación de las decisiones, son por ello
 componentes centrales del diseño.
 
-## 5.3. Transparencia y reproducibilidad
+### 2.7.3. Transparencia y reproducibilidad
 
 PRISMA 2020 recomienda reportar de forma completa la identificación, selección,
 evaluación y síntesis de los estudios para que el lector pueda juzgar la
@@ -51,7 +51,7 @@ la traducción de la pregunta, operadores booleanos, encabezamientos, términos
 libres, sintaxis y filtros antes de aplicar la búsqueda a otras bases
 [@mcgowan2016].
 
-## 5.4. Modelo analítico y variables
+### 2.7.4. Modelo analítico y variables
 
 El modelo analítico se organiza como una cadena causal provisional:
 

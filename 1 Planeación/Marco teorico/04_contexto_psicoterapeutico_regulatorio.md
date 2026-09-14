@@ -1,6 +1,6 @@
-# 4. Contexto psicoterapéutico, ético y clínico
+## 2.4. Contexto psicoterapéutico, ético y clínico
 
-## 4.1. Preparación, administración e integración
+### 2.4.1. Preparación, administración e integración
 
 La terapia asistida por psicodélicos se desarrolla como una secuencia clínica
 en la que el contexto no es un elemento accesorio. La evaluación inicial
@@ -18,7 +18,7 @@ sin imponer interpretaciones espirituales o psicológicas predeterminadas. La
 falta de estandarización en estas fases dificulta determinar qué componente
 produjo el cambio y limita la comparación entre estudios [@silczuk2025].
 
-## 4.2. Alianza terapéutica y factores contextuales
+### 2.4.2. Alianza terapéutica y factores contextuales
 
 La alianza terapéutica puede influir en la seguridad, la cooperación, la
 regulación emocional y la continuidad del seguimiento. También son relevantes
@@ -34,7 +34,7 @@ personal, los manuales de intervención y la fidelidad del protocolo. Sin esta
 información, la replicación es limitada y la síntesis puede mezclar
 intervenciones conceptualmente distintas.
 
-## 4.3. Riesgos, contraindicaciones y vigilancia
+### 2.4.3. Riesgos, contraindicaciones y vigilancia
 
 Los riesgos deben valorarse por fase y por horizonte temporal. En el periodo
 agudo pueden aparecer alteraciones perceptivas, ansiedad, náusea, cefalea,
@@ -54,7 +54,7 @@ tolerable, pero también casos de ansiedad grave que requirieron atención
 médica [@yngwe2026]. La tolerabilidad media no elimina la posibilidad de daños
 clínicamente relevantes en subgrupos.
 
-## 4.4. Ética de la investigación
+### 2.4.4. Ética de la investigación
 
 La investigación debe garantizar consentimiento informado específico, libertad
 para retirarse, confidencialidad, evaluación independiente del riesgo y

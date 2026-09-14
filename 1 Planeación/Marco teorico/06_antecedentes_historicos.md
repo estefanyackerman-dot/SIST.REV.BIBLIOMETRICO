@@ -1,6 +1,6 @@
-# 6. Antecedentes históricos de la psilocibina
+## 2.5. Antecedentes históricos de la psilocibina
 
-## 6.1. Usos tradicionales y conocimiento etnobotánico
+### 2.5.1. Usos tradicionales y conocimiento etnobotánico
 
 Los hongos psilocíbicos forman parte de prácticas ceremoniales y religiosas de
 diversos pueblos, particularmente en Mesoamérica. Este antecedente demuestra
@@ -20,7 +20,7 @@ responsable reconoce la continuidad histórica y, al mismo tiempo, respeta la
 autonomía cultural y la diferencia entre conocimiento tradicional y evidencia
 experimental.
 
-## 6.2. Aislamiento, investigación psicofarmacológica y expansión inicial
+### 2.5.2. Aislamiento, investigación psicofarmacológica y expansión inicial
 
 El interés moderno se consolidó con la identificación de los principios
 activos de los hongos psilocíbicos y el desarrollo de investigaciones sobre
@@ -39,7 +39,7 @@ favorecieron restricciones legales y la interrupción de numerosos programas.
 La discontinuidad resultante produjo una brecha entre la investigación
 temprana y los estándares actuales de ensayo clínico.
 
-## 6.3. Prohibición, estigmatización y pérdida de continuidad científica
+### 2.5.3. Prohibición, estigmatización y pérdida de continuidad científica
 
 La clasificación legal de los psicodélicos influyó en la disponibilidad de
 materiales, la financiación, la autorización de protocolos y la percepción
@@ -50,7 +50,7 @@ relevante para el análisis bibliométrico, porque los cambios en la producción
 pueden reflejar barreras regulatorias además de cambios en el interés
 científico.
 
-## 6.4. Renacimiento de la investigación clínica
+### 2.5.4. Renacimiento de la investigación clínica
 
 Desde finales del siglo XX y con mayor intensidad durante el siglo XXI,
 reaparecieron estudios controlados sobre psilocibina y otros psicodélicos. La

@@ -1,6 +1,6 @@
-# 7. Legislación y regulación de la psilocibina
+## 2.6. Legislación y regulación de la psilocibina
 
-## 7.1. Regulación como determinante de la investigación
+### 2.6.1. Regulación como determinante de la investigación
 
 La regulación de la psilocibina debe analizarse como un sistema de normas que
 distribuye permisos, restricciones, responsabilidades y mecanismos de
@@ -18,7 +18,7 @@ constituyen evidencia de eficacia [@sharma2023]. El análisis comparado debe
 identificar país, nivel normativo, autoridad competente, finalidad del uso y
 tipo de autorización.
 
-## 7.2. Investigación clínica y autorización sanitaria
+### 2.6.2. Investigación clínica y autorización sanitaria
 
 La clasificación legal de una sustancia y la autorización de un ensayo son
 decisiones distintas. Un compuesto controlado puede investigarse mediante
@@ -35,7 +35,7 @@ Estas exigencias son especialmente relevantes cuando se utilizan hongos o
 preparaciones cuya concentración puede variar, frente a formulaciones
 sintéticas estandarizadas.
 
-## 7.3. Regulación de una intervención multicomponente
+### 2.6.3. Regulación de una intervención multicomponente
 
 La terapia asistida por psicodélicos plantea una dificultad regulatoria
 particular: el resultado clínico puede depender del fármaco y de un componente
@@ -53,7 +53,7 @@ independiente o una terapia asistida, porque ambas estrategias implican
 afirmaciones causales y grados de validez externa distintos
 [@schenberg2025].
 
-## 7.4. Eficacia, efectividad y vigilancia posautorización
+### 2.6.4. Eficacia, efectividad y vigilancia posautorización
 
 La eficacia describe el desempeño bajo condiciones experimentales controladas;
 la efectividad se refiere al desempeño en la práctica habitual. La transición
@@ -69,7 +69,7 @@ en sistemas de salud. Tampoco permite asumir que una modalidad clínica
 comercializada conservará las condiciones de preparación y supervisión del
 ensayo original.
 
-## 7.5. Ética, equidad y salud pública
+### 2.6.5. Ética, equidad y salud pública
 
 Un marco regulatorio responsable debe proteger a participantes y pacientes,
 reducir riesgos evitables, garantizar consentimiento informado y transparentar
