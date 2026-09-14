@@ -1,6 +1,6 @@
 # Replication of the bibliometric arm in R/bibliometrix
-# Psilocybin and depression/anxiety, 2022-2026 (WoS analytical corpus)
-# Requires: raw/savedrecs.txt (WoS Plain Text, full record with cited references)
+# Psilocybin and depression/anxiety, 2022-2026 (Web of Science Core Collection analytical corpus)
+# Requires: raw/savedrecs.txt (Web of Science Core Collection Plain Text export, full record with cited references)
 
 library(bibliometrix)
 library(dplyr)
@@ -35,4 +35,4 @@ NetCo <- biblioNetwork(M, analysis = "collaboration", network = "countries", sep
 networkPlot(NetCo, n = 25, Title = "Country collaboration", type = "circle", labelsize = 0.8)
 
 # Export for VOSviewer (co-citation uses the CR field of the Plain Text export)
-# In VOSviewer: Create > map based on bibliographic data > read WoS file raw/savedrecs.txt
+# In VOSviewer: Create > map based on bibliographic data > read Web of Science Core Collection file raw/savedrecs.txt
