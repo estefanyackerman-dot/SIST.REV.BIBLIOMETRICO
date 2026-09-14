@@ -61,7 +61,7 @@ La seguridad constituye un dominio primario. Deben extraerse eventos adversos,
 eventos adversos graves, intensidad, duración, abandono, hospitalización,
 ansiedad persistente, síntomas maniformes o psicóticos y cambios en ideación
 suicida. La ideación suicida no debe inferirse a partir de la mejoría de la
-puntuación depresiva. Wong et al. encontraron una disminución pequeña pero
+puntuación depresiva.  encontraron una disminución pequeña pero
 significativa de ideación suicida frente a controles, aunque no hubo evidencia
 suficiente sobre intentos o muertes y persistieron limitaciones de tamaño,
 seguimiento y riesgo de sesgo [@wong2025].
