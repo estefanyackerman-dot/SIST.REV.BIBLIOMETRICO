@@ -44,8 +44,9 @@ evidencia de eficacia y seguridad procedente de ensayos clínicos en adultos de
 Se diseñó una revisión híbrida siguiendo PRISMA-P para el protocolo, PRISMA-S
 para la documentación de las búsquedas y PRISMA 2020 para el informe final.
 El brazo bibliométrico consultó Web of Science Core Collection, Scopus y
-PubMed. El brazo clínico consultó PubMed, bases de Ovid, Cochrane CENTRAL y
-APA PsycInfo, con una búsqueda complementaria en Europe PMC y medRxiv. La
+PubMed. El brazo metaanalítico consultó Web of Science Core Collection,
+PubMed, bases de Ovid, Cochrane CENTRAL y APA PsycInfo, con búsquedas
+complementarias en Europe PMC y medRxiv. La
 deduplicación priorizó Web of Science sobre Scopus/Ovid y PubMed, mediante DOI
 normalizado y después título normalizado. La búsqueda documentada en
 `search_strategies.md` se ejecutó el 5 de septiembre de 2026.
@@ -151,9 +152,10 @@ psilocibina.
 ## 3.3 Fuentes y estrategias de búsqueda
 
 El brazo bibliométrico consultó Web of Science Core Collection, Scopus y
-PubMed. El brazo clínico consultó PubMed, las bases de Ovid disponibles para
-Referencias, Abstracts y revistas suscritas, Cochrane CENTRAL y APA PsycInfo.
-Europe PMC y medRxiv se utilizaron como fuentes complementarias de preprints.
+PubMed. El brazo metaanalítico consultó Web of Science Core Collection,
+PubMed, las bases de Ovid disponibles para Referencias, Abstracts y revistas
+suscritas, Cochrane CENTRAL y APA PsycInfo. Europe PMC y medRxiv se utilizaron
+como fuentes complementarias de preprints.
 También se planificó revisar las referencias de los ensayos incluidos y de
 revisiones sistemáticas recientes.
 

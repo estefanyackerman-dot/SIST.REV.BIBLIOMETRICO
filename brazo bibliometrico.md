@@ -49,7 +49,7 @@ psicodélica asistida para depresión y ansiedad, pero la literatura combina
 estudios clínicos, preclínicos, mecanísticos y documentales. **Objetivo:**  
 caracterizar la producción científica de 2022–2026 y sintetizar la eficacia y  
 seguridad en adultos. **Métodos:** Se diseñó una revisión híbrida conforme a  
-PRISMA-P, PRISMA-S y PRISMA 2020. Se consultaron Web of Science, Scopus,  
+PRISMA-P, PRISMA-S y PRISMA 2020. Se consultaron Web of Science Core Collection, Scopus,  
 PubMed, Ovid, Cochrane CENTRAL, APA PsycInfo, Europe PMC y medRxiv. La  
 búsqueda se ejecutó el 5 de septiembre de 2026. **Resultados:** El corpus
 bibliométrico actualizado contiene 2,128 documentos únicos en WoS–Scopus–PubMed
@@ -120,8 +120,9 @@ Se diseñó una revisión híbrida siguiendo PRISMA-P \[@shamseer2015\] para el
 protocolo, PRISMA-S \[@rethlefsen2021\] para la documentación de las búsquedas y  
 PRISMA 2020 \[@page2021\] para el informe final.  
 El brazo bibliométrico consultó Web of Science Core Collection, Scopus y  
-PubMed. El brazo clínico consultó PubMed, bases de Ovid, Cochrane CENTRAL y  
-APA PsycInfo, con una búsqueda complementaria en Europe PMC y medRxiv. La  
+PubMed. El brazo metaanalítico consultó Web of Science Core Collection,  
+PubMed, bases de Ovid, Cochrane CENTRAL y APA PsycInfo, con búsquedas  
+complementarias en Europe PMC y medRxiv. La  
 deduplicación priorizó Web of Science sobre Scopus/Ovid y PubMed, mediante DOI  
 normalizado y después título normalizado. La búsqueda documentada en  
 `search_strategies.md` se ejecutó el 5 de septiembre de 2026.
@@ -238,9 +239,10 @@ psilocibina.
 ## 3.3 Fuentes y estrategias de búsqueda
 
 El brazo bibliométrico consultó Web of Science Core Collection, Scopus y  
-PubMed. El brazo clínico consultó PubMed, las bases de Ovid disponibles para  
-Referencias, Abstracts y revistas suscritas, Cochrane CENTRAL y APA PsycInfo.  
-Europe PMC y medRxiv se utilizaron como fuentes complementarias de preprints.  
+PubMed. El brazo metaanalítico consultó Web of Science Core Collection,  
+PubMed, las bases de Ovid disponibles para Referencias, Abstracts y revistas  
+suscritas, Cochrane CENTRAL y APA PsycInfo. Europe PMC y medRxiv se utilizaron  
+como fuentes complementarias de preprints.  
 También se planificó revisar las referencias de los ensayos incluidos y de  
 revisiones sistemáticas recientes.
 

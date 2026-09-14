@@ -5,7 +5,7 @@ bibliométrico amplio con una revisión sistemática de ensayos clínicos sobre
 psilocibina, depresión y ansiedad en adultos.
 
 > **Estado al 12 de septiembre de 2026:** el brazo bibliométrico está
-> documentado y cuenta con un corpus deduplicado. El brazo clínico todavía se
+> documentado y cuenta con un corpus deduplicado. El brazo metaanalítico todavía se
 > encuentra en proceso de cribado; aún no deben interpretarse los datos como
 > evidencia metaanalítica de eficacia o seguridad.
 
@@ -68,8 +68,9 @@ psicodélicos cuando no sea posible aislar el efecto de la psilocibina.
   2026, versión 1.2.
 - **Fecha documentada de búsqueda:** 5 de septiembre de 2026.
 - **Fuentes bibliométricas:** Web of Science Core Collection, Scopus y PubMed.
-- **Fuentes clínicas:** PubMed, bases de Ovid, Cochrane CENTRAL y APA
-  PsycInfo, complementadas con Europe PMC y medRxiv.
+- **Fuentes metaanalíticas:** Web of Science Core Collection, PubMed, bases
+  de Ovid, Cochrane CENTRAL y APA PsycInfo, complementadas con Europe PMC y
+  medRxiv.
 - **Estrategias completas:** [`search_strategies.md`](./search_strategies.md).
 - **Pipeline de deduplicación:**
   [`scripts/01_deduplication_pipeline.py`](./scripts/01_deduplication_pipeline.py).

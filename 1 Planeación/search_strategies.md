@@ -23,7 +23,7 @@ Search: "psilocyb*"[Title/Abstract] OR (("psilocybin"[MeSH Terms] OR "psilocybe"
 ```
 Retrieved: 654. Export: CSV summary / MEDLINE.
 
-## Meta-analytic arm (restrictive strategies; )
+## Meta-analytic arm (restrictive strategies; PubMed, Cochrane CENTRAL, APA PsycInfo, and Web of Science Core Collection)
 
 **PubMed**
 ```

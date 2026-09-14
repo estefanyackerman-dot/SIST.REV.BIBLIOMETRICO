@@ -26,7 +26,7 @@ Europe PMC y medRxiv.
 
 Brazo bibliométrico: Web of Science Core Collection, Scopus y PubMed.
 
-Brazo metaanalítico: PubMed,  todas las revistas de Ovid: (Referencias + Abstracts + Revistas Suscritas) , EBM Reviews - Cochrane Central Register of Controlled Trials , APA PsycInfo  como fuentes primarias, complementado por Europe PMC (que indexa medRxiv) para preprints en revisión. Las listas de referencias de los ensayos incluidos y de revisiones sistemáticas recientes serán revisadas manualmente (búsqueda de citas hacia atrás).
+Brazo metaanalítico: Web of Science Core Collection, PubMed, todas las revistas de Ovid: (Referencias + Abstracts + Revistas Suscritas), EBM Reviews - Cochrane Central Register of Controlled Trials y APA PsycInfo como fuentes primarias, complementado por Europe PMC (que indexa medRxiv) y medRxiv para preprints en revisión. Las listas de referencias de los ensayos incluidos y de revisiones sistemáticas recientes serán revisadas manualmente (búsqueda de citas hacia atrás).
 
 Las fuentes obtenidas fueron filtradas en primera instancia por título y resumen, en donde se incluían, "psilocybin", "depression" y "anxiety”, posteriormente se realizó la lectura completa, la información de cada revisión, la cual se organizó de acuerdo con el tema “tratamiento con psilocibina para la depresión y ansiedad”. Todas las búsquedas se realizaron el mismo día y se documentaron completamente siguiendo PRISMA-S
 Cada proceso fue evaluado por dos revisores de manera independiente (AA y LL).
