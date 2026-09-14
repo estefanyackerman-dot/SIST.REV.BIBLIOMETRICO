@@ -4,14 +4,14 @@ Hybrid bibliometric analysis and systematic review with meta-analysis of randomi
 
 **Companion protocol:** `docs/Protocol_Psilocybin_Depression_Anxiety_v1.0.docx` (PRISMA-P structure, PRISMA-S search documentation). The meta-analytic arm is registered in PROSPERO (registration number to be inserted upon confirmation).
 
-## Search summary (all searches run 11 August 2026)
+## Search summary (all searches run 5 September 2026)
 
 | Database | Records | Unique contribution |
 |---|---|---|
-| Web of Science Core Collection | 1,433 | 1,431 (2 retracted articles excluded) |
-| Scopus | 1,163 | 361 |
-| PubMed | 918 | 129 |
-| **Unique tri-database corpus** | **3,514 raw** | **1,921** |
+| Web of Science Core Collection | 277 | 277 |
+| Scopus | 1,053 | 1,053 |
+| PubMed | 932 | 932 |
+| **Unique tri-database corpus** | **3,822 source records** | **2,128** |
 
 Deduplication priority: WoS > Scopus > PubMed, matched first by normalized DOI and then by normalized title. Two retracted articles (DOI 10.1177/02698811241234247 and 10.3389/fnins.2023.1168911) were excluded from the analytical corpus and are declared in Methods.
 
@@ -34,7 +34,11 @@ Raw exports from Web of Science, Scopus and PubMed are not redistributed in this
 
 ## Key descriptive results
 
-Annual production grew at a compound rate of 27.3 percent (2022 to 2025); 2026 is partial at the search date. Leading countries: USA, United Kingdom, Canada, Australia, Switzerland. The most frequent non-generic author keywords (lsd, ketamine, mdma, psychedelic-assisted therapy, psychotherapy) locate the corpus within the comparative psychedelic therapeutics literature.
+In the updated tri-database corpus, annual production was 178 documents in 2022,
+215 in 2023, 232 in 2024, 340 in 2025 and 280 in 2026. The year 2026 is partial
+at the search date. The full dual analysis, including the 2,283-document
+all-sources corpus and VOSviewer files, is maintained in
+`../results/vosviewer_dual/`.
 
 ## Reproducibility
 

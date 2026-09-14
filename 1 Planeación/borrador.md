@@ -48,7 +48,7 @@ PubMed. El brazo clínico consultó PubMed, bases de Ovid, Cochrane CENTRAL y
 APA PsycInfo, con una búsqueda complementaria en Europe PMC y medRxiv. La
 deduplicación priorizó Web of Science sobre Scopus/Ovid y PubMed, mediante DOI
 normalizado y después título normalizado. La búsqueda documentada en
-`search_strategies.md` se ejecutó el 27 de agosto de 2026.
+`search_strategies.md` se ejecutó el 5 de septiembre de 2026.
 
 ## Resultados
 

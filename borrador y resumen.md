@@ -51,9 +51,9 @@ caracterizar la producción científica de 2022–2026 y sintetizar la eficacia 
 seguridad en adultos. **Métodos:** Se diseñó una revisión híbrida conforme a  
 PRISMA-P, PRISMA-S y PRISMA 2020. Se consultaron Web of Science, Scopus,  
 PubMed, Ovid, Cochrane CENTRAL, APA PsycInfo, Europe PMC y medRxiv. La  
-búsqueda se ejecutó el 27 de agosto de 2026. **Resultados:** Se  
-identificaron 943 registros; después de eliminar 417 duplicados y un registro  
-retractado quedaron 525 para cribado. El componente clínico aún no tiene  
+búsqueda se ejecutó el 5 de septiembre de 2026. **Resultados:** El corpus
+bibliométrico actualizado contiene 2,128 documentos únicos en WoS–Scopus–PubMed
+y 2,283 en el corpus ampliado. El componente clínico aún no tiene
 completos el cribado de texto completo, la evaluación del riesgo de sesgo ni  
 la síntesis cuantitativa. **Conclusiones:** El campo presenta expansión  
 bibliométrica, pero todavía no es metodológicamente válido inferir eficacia,  
@@ -78,13 +78,13 @@ evidencia de eficacia y seguridad en adultos.
 **Métodos:** Se diseñó una revisión híbrida conforme a PRISMA-P  
 \[@shamseer2015\], PRISMA-S \[@rethlefsen2021\] y PRISMA 2020 \[@page2021\]. Se  
 consultaron Web of Science, Scopus, PubMed, Ovid, Cochrane CENTRAL, APA  
-PsycInfo, Europe PMC y medRxiv. La búsqueda se ejecutó el 27 de agosto de  
+PsycInfo, Europe PMC y medRxiv. La búsqueda se ejecutó el 5 de septiembre de
 2026\. La deduplicación se realizó mediante DOI normalizado y, cuando fue  
 necesario, título normalizado.
 
-**Resultados:** Se identificaron 943 registros; tras eliminar 417 duplicados y  
-un registro retractado quedaron 525 para cribado. El corpus bibliométrico  
-describe crecimiento documental y participación destacada de Estados Unidos,  
+**Resultados:** El corpus bibliométrico actualizado contiene 2,128 documentos
+únicos en WoS–Scopus–PubMed y 2,283 al incorporar todas las exportaciones
+adjuntas. Describe crecimiento documental y participación destacada de Estados Unidos,
 Reino Unido, Canadá, Australia y Suiza. Sin embargo, aún no se han completado  
 el cribado de texto completo, la extracción clínica, la evaluación del riesgo  
 de sesgo ni la síntesis de los ensayos elegibles.
@@ -124,16 +124,13 @@ PubMed. El brazo clínico consultó PubMed, bases de Ovid, Cochrane CENTRAL y
 APA PsycInfo, con una búsqueda complementaria en Europe PMC y medRxiv. La  
 deduplicación priorizó Web of Science sobre Scopus/Ovid y PubMed, mediante DOI  
 normalizado y después título normalizado. La búsqueda documentada en  
-`search_strategies.md` se ejecutó el 27 de agosto de 2026.
+`search_strategies.md` se ejecutó el 5 de septiembre de 2026.
 
 ## Resultados
 
-El flujo consolidado disponible en el repositorio identificó 943 registros: 278  
-de Web of Science, 561 etiquetados como Ovid y 104 de PubMed. Se eliminaron 417  
-duplicados y un registro retractado, por lo que quedaron 525 registros para  
-cribado. El corpus derivado contiene 275 registros de Web of Science, 216  
-etiquetados como Ovid y 34 de PubMed, todos entre 2022 y 2026. El año 2026 es  
-parcial. La fase de cribado por título/resumen,  
+El análisis bibliométrico actualizado identificó 2,128 documentos únicos en el
+corpus WoS–Scopus–PubMed y 2,283 en el corpus ampliado. La fase de cribado por
+título/resumen,
 recuperación de texto completo, exclusiones con motivos y número de ensayos  
 clínicos incluidos aún no está registrada en los archivos de flujo; por tanto,  
 no se presenta todavía una estimación metaanalítica ni una conclusión de  
@@ -255,6 +252,33 @@ aleatorización y se excluyeron revisiones sistemáticas, metaanálisis y fase 1
 Los términos de resultados no se restringieron en la búsqueda para preservar  
 la sensibilidad.
 
+### 3.3.1 Registro PRISMA-S de las búsquedas
+
+| Brazo | Fuente y plataforma | Fecha | Límites principales | Resultados registrados |
+| --- | --- | --- | --- | ---: |
+| Bibliométrico | Web of Science Core Collection | 05-09-2026 | `PY=2022–2026`; sin límite de idioma | 1,828 |
+| Bibliométrico | Scopus | 05-09-2026 | artículos y revisiones; `PUBYEAR > 2021` y `< 2027` | 1,045 |
+| Bibliométrico | PubMed/MEDLINE | 05-09-2026 | 2022–2027; MEDLINE | 654 |
+| Clínico | PubMed/MEDLINE | 05-09-2026 | humanos; 2022–2026; ensayos/fases II–IV | 102 |
+| Clínico | Ovid: CENTRAL, APA PsycInfo y revistas suscritas | 05-09-2026 | 2022–2026; exclusión de revisiones y otros psicodélicos | Desglosado en el registro |
+| Complementario | medRxiv | 05-09-2026 | preprints; 2022–2026 | 135 |
+| Complementario | Europe PMC | 05-09-2026 | preprints; 2022–2026; términos clínicos | 29 |
+
+Los conteos anteriores corresponden a consultas y exportaciones distintas y no
+deben sumarse entre sí. El corpus actualizado de 2,128 documentos corresponde a
+las exportaciones utilizadas para WoS–Scopus–PubMed; el corpus ampliado de 2,283
+documentos incorpora todas las exportaciones adjuntas. La discrepancia entre
+los recuentos de las consultas de Ovid y la etiqueta agregada `Ovid` del flujo
+se conservará como una incidencia metodológica hasta armonizar los archivos
+originales.
+
+La estrategia completa se conserva sin truncamiento en
+[`1 Planeación/search_strategies.md`](./1%20Planeación/search_strategies.md).
+Se registraron los campos consultados, operadores booleanos, encabezamientos
+controlados cuando estuvieron disponibles, sintaxis específica de cada base,
+fecha de ejecución y ausencia de límites por idioma o disponibilidad de texto
+completo.
+
 ## 3.4 Gestión de registros y deduplicación
 
 La deduplicación se realizó en el orden Web of Science > Ovid/Scopus > PubMed.  
@@ -262,6 +286,12 @@ Primero se comparó el DOI normalizado y, cuando no estaba disponible, el títul
 normalizado. El registro de dos artículos retractados estaba previsto en el  
 pipeline; el flujo actual reporta un registro retractado eliminado. El código  
 de deduplicación es [`01_deduplication_pipeline.py`](./scripts/01_deduplication_pipeline.py).
+
+Se conservaron los archivos de exportación originales y el archivo de datos
+deduplicado para permitir la auditoría de cada decisión. Los registros
+retractados se excluyeron antes del cribado. Cuando un registro no contenía DOI,
+la coincidencia se determinó mediante título normalizado; cualquier duplicado
+ambiguo debe resolverse manualmente y documentarse en el registro de decisiones.
 
 ## 3.5 Selección y extracción de datos
 
@@ -316,12 +346,15 @@ certeza de la evidencia \[@prisma2021es; @rethlefsen2021\].
 
 | Fuente | Identificados | Retractados eliminados | Duplicados eliminados | Únicos conservados |
 | --- | --- | --- | --- | --- |
-| Web of Science | 278 | 1 | 2 | 275 |
-| Ovid | 561 | 0 | 345 | 216 |
-| PubMed | 104 | 0 | 70 | 34 |
-| **Total** | **943** | **1** | **417** | **525** |
+| Web of Science | 1,837 | 0 | -- | 1,837 |
+| Scopus | 1,053 | 0 | -- | 1,053 |
+| PubMed | 932 | 0 | -- | 932 |
+| **Corpus tri-base deduplicado** | **3,822 registros-fuente** | **0** | **1,694 coincidencias entre fuentes** | **2,128** |
 
-El flujo PRISMA actual permite informar 525 registros para cribado. Aún no  
+El flujo bibliométrico actualizado permite informar 2,128 registros únicos del
+corpus WoS–Scopus–PubMed para el análisis. El corpus ampliado, que incorpora
+todas las exportaciones adjuntas (incluidas Ovid y los archivos RIS
+complementarios), contiene 2,283 registros únicos. Aún no
 contiene los conteos de registros excluidos por título/resumen, informes  
 solicitados, textos no recuperados, evaluaciones de texto completo, motivos de  
 exclusión ni estudios clínicos incluidos. Esos campos permanecen como `NR`  
@@ -332,12 +365,17 @@ terminada.
 
 ## 4.2 Composición del corpus bibliométrico
 
-El corpus único contiene 525 registros: 275 de Web of Science, 216 etiquetados  
-como Ovid y 34 de PubMed. La cobertura de título fue del 100% en las tres  
-fuentes; la  
-cobertura de DOI fue del 99.64% en Web of Science y del 100% en Ovid y  
-PubMed. La producción registrada por fuente y año está disponible en  
-[`data/pandas_year_report.csv`](./data/pandas_year_report.csv).
+El análisis actualizado contiene dos escenarios. El corpus principal
+WoS–Scopus–PubMed contiene 2,128 documentos únicos; el corpus ampliado contiene
+2,283 documentos únicos y 35 etiquetas de fuente. Los archivos reproducibles,
+las tablas anuales, los conteos por fuente y las redes para VOSviewer se
+encuentran en
+[`results/vosviewer_dual`](./results/vosviewer_dual).
+
+En el corpus principal, la producción anual fue de 288 documentos en 2022, 398
+en 2023, 415 en 2024, 573 en 2025 y 454 en 2026. En el corpus ampliado fue de
+308, 423, 454, 613 y 485 documentos, respectivamente. El año 2026 es parcial
+y no debe compararse como año completo.
 
 La producción aumentó durante el periodo observado; el cálculo descriptivo del  
 repositorio estima una tasa compuesta anual de 27.3% entre 2022 y 2025. El año  
@@ -348,9 +386,11 @@ frecuentes incluyen LSD, ketamina, MDMA, terapia asistida por psicodélicos y
 psicoterapia, lo que sitúa el corpus en el campo más amplio de terapias  
 psicodélicas.
 
-El archivo de estrategias describe Scopus para el brazo bibliométrico, mientras  
-que las tablas de conteo y el pipeline usan la etiqueta `OVID`. La identidad  
-exacta de esa exportación debe verificarse y armonizarse antes de la publicación.
+La comparación con el análisis histórico de 11 de agosto de 2026 no debe
+realizarse como una tendencia temporal: el corpus actualizado utiliza
+exportaciones diferentes y búsquedas ejecutadas el 5 de septiembre de 2026.
+La identidad exacta de algunas exportaciones complementarias se conserva en
+los metadatos de fuente y debe verificarse antes de la publicación.
 
 Estos resultados son descriptivos: incluyen documentos que no cumplen los  
 criterios clínicos de la revisión y no permiten estimar la eficacia o la  
@@ -453,9 +493,9 @@ ensayos.
 
 # 7\. Conclusiones
 
-Entre 2022 y 2026 se identificaron 943 registros en las fuentes documentadas;  
-después de retirar 417 duplicados y un registro retractado quedaron 525 para  
-cribado. El campo presenta crecimiento y conexiones con la investigación de  
+Entre 2022 y 2026 se identificaron 2,128 documentos únicos en el corpus
+WoS–Scopus–PubMed y 2,283 en el corpus ampliado. El campo presenta crecimiento
+y conexiones con la investigación de
 otros psicodélicos. Sin embargo, la revisión clínica todavía no tiene  
 completadas las etapas necesarias para una conclusión de eficacia o seguridad.  
 Por tanto, los resultados actuales describen una revisión sistemática en curso  

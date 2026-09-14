@@ -2,7 +2,9 @@
 
 ## **Marco de registro e informes**
 
-Este protocolo sigue a PRISMA-P 2015 en su estructura, Para la realización de las estrategias de búsqueda de siguió  PRISMA-S y PRISMA 2020  para el reporte de la revisión completa.
+Este protocolo sigue PRISMA-P 2015 en su estructura. Las estrategias de
+búsqueda se diseñaron y documentaron conforme a PRISMA-S, y la revisión
+completa se reportará conforme a PRISMA 2020.
 El componente de metaanálisis fue registrado en PROSPERO [CRD420261493650] el 2 de septiembre de 2026, a las 00:44 UTC, versión 1.2, y el archivo está disponible en este mismo repositorio [Protocolo](docs\2 Protocolo\PROTOCOL 2.0.docxO)
 La sección bibliométrica completa —incluyendo documentación de búsqueda, proceso de deduplicación, corpus derivado, tablas y figuras— está disponible en Zenodo: https://doi.org/10.5281/zenodo.21893380 
 El brazo bibliométrico no es elegible para PROSPERO y pero está documentado a través de  Zenodo y el repositorio asociado de GitHub, en los cuales se realiza el seguimiento de ambas partes
@@ -13,7 +15,12 @@ Se realizo una revisión sistemática de ensayos clínicos para responder a la p
 
 pico
 
-La estrategia de búsqueda fue revisada por los asesores siguiendo el checklist basado en evidencia de la guía PRESS según lo que recomienda PRISMA-SERCH para el reporte de búsquedas de literatura en revisiones sistemáticas. Cada estrategia fue adaptada para cada repositorio y aplicada en bases de datos con acceso de la red de biblioteca digital de la UNAM. tambien se realizo una búsqueda complementaria de preprints ya que están poco cubiertos por las bases de datos primarias, se recuperan mediante una búsqueda complementaria de Europe PMC incluyendo medRxiv.
+La estrategia de búsqueda fue revisada por los asesores mediante el checklist
+PRESS. Cada estrategia fue adaptada a la sintaxis y los campos de cada
+repositorio y aplicada mediante el acceso institucional de la biblioteca
+digital de la UNAM. También se realizó una búsqueda complementaria de preprints,
+que pueden estar insuficientemente cubiertos por las bases primarias, mediante
+Europe PMC y medRxiv.
 
 ## **Fuentes de información**
 
@@ -22,7 +29,41 @@ Brazo bibliométrico: Web of Science Core Collection, Scopus y PubMed.
 Brazo metaanalítico: PubMed,  todas las revistas de Ovid: (Referencias + Abstracts + Revistas Suscritas) , EBM Reviews - Cochrane Central Register of Controlled Trials , APA PsycInfo  como fuentes primarias, complementado por Europe PMC (que indexa medRxiv) para preprints en revisión. Las listas de referencias de los ensayos incluidos y de revisiones sistemáticas recientes serán revisadas manualmente (búsqueda de citas hacia atrás).
 
 Las fuentes obtenidas fueron filtradas en primera instancia por título y resumen, en donde se incluían, "psilocybin", "depression" y "anxiety”, posteriormente se realizó la lectura completa, la información de cada revisión, la cual se organizó de acuerdo con el tema “tratamiento con psilocibina para la depresión y ansiedad”. Todas las búsquedas se realizaron el mismo día y se documentaron completamente siguiendo PRISMA-S
-Cada proceso fue evaluado por dos revisores de manera independiente (AA)(LL), y cada conflicto derivado de la revisión fue arbitrado por los asesores de este proyecto y resuelto por consenso. (SM)(EB)
+Cada proceso fue evaluado por dos revisores de manera independiente (AA y LL).
+Los conflictos fueron arbitrados por los asesores del proyecto (SM y EB) y
+resueltos por consenso.
+
+## Registro PRISMA-S de las búsquedas
+
+Todas las búsquedas se ejecutaron el 5 de septiembre de 2026. No se aplicaron
+restricciones por idioma ni por disponibilidad de texto completo. Las cadenas
+completas, los campos consultados, los operadores, los filtros, los enlaces de
+consulta y los resultados registrados se conservan en
+[`1 Planeación/search_strategies.md`](./1%20Planeación/search_strategies.md).
+
+| Brazo | Fuente/plataforma | Fecha de ejecución | Límites y filtros | Registros recuperados |
+| --- | --- | --- | --- | ---: |
+| Bibliométrico | Web of Science Core Collection | 05-09-2026 | `PY=2022–2026`; sin límite de idioma | 1,828 |
+| Bibliométrico | Scopus | 05-09-2026 | artículos y revisiones; `PUBYEAR > 2021` y `< 2027` | 1,045 |
+| Bibliométrico | PubMed/MEDLINE | 05-09-2026 | 2022–2027; MEDLINE | 654 |
+| Clínico | PubMed/MEDLINE | 05-09-2026 | humanos; 2022–2026; ensayos/fases II–IV | 102 |
+| Clínico | Ovid: CENTRAL, APA PsycInfo y revistas suscritas | 05-09-2026 | 2022–2026; exclusión de revisiones y otros psicodélicos | Desglosado en el registro |
+| Complementario | medRxiv | 05-09-2026 | preprints; 2022–2026 | 135 |
+| Complementario | Europe PMC | 05-09-2026 | preprints; 2022–2026; términos clínicos | 29 |
+
+Los resultados no deben sumarse entre brazos porque proceden de consultas
+distintas. El análisis bibliométrico actualizado produjo 2,128 documentos
+únicos para WoS–Scopus–PubMed y 2,283 para todas las exportaciones adjuntas.
+El flujo consolidado histórico de 943 registros se conserva únicamente como
+registro de una exportación anterior y no se utiliza como resultado principal.
+La diferencia entre los recuentos desglosados de Ovid y la etiqueta agregada
+`Ovid` del flujo se mantiene como incidencia metodológica pendiente de
+armonización.
+
+La búsqueda complementaria incluyó revisión hacia atrás de las referencias de
+los ensayos elegibles y de revisiones sistemáticas recientes. Las dos
+referencias retractadas identificadas en Web of Science fueron excluidas antes
+del cribado y se conservaron sus DOI en el registro de decisiones.
 
 ## **Criterios de elegibilidad**
 
@@ -38,59 +79,17 @@ C (Comparación)	Placebo, tratamiento habitual (antidepresivos), tratamiento act
 O (Resultado)	Cambio en la gravedad de la depresión y ansiedad en escalas validadas, respuesta y remisión, funcionamiento, calidad de vida y eventos adversos, donde el cambio de síntomas clínicamente medible se reporta en instrumentos estándar.	Resultados limitados a metodologías analíticas (farmacocinética, detección); resultados biológicos o de neuroimagen sin datos clínicos de depresión/ansiedad; estudios centrados en otras patologías; estudios que no miden ni reportan resultados de depresión/ansiedad ni eventos adversos relevantes.	Los términos de resultado no se incluyen en la estrategia de búsqueda ejecutable para preservar la sensibilidad; la elegibilidad para resultados se evalúa en el cribado.
 S (Diseño de estudio)	Ensayos controlados aleatorizados, fases 2, 3 y 4, publicados de 2022 a 2026. Medidas de gravedad validadas para depresión (por ejemplo, MADRS, HAM-D, PHQ-9, BDI) y/o ansiedad (por ejemplo, HAM-A, GAD-7, STAI, BAI). Preprints en revisión (recuperados a través de fuentes complementarias de preprints, Sección 3.2).	Revisiones sistemáticas y metaanálisis (excluidos solo del brazo metaanalítico; elegibles para el brazo bibliométrico), ensayos de fase 1 en participantes sanos, estudios con animales, reportes de casos breves de seguimiento, registros cuyo texto completo no puede ser recuperado después de acceso institucional y contacto con el autor (documentados como "reportes no recuperados" en el flujo PRISMA).	NO ("revisión sistemática"[Tipo de publicación] O "metaanálisis"[Tipo de publicación]). Límites: Humanos, 2022 a 2026.
 
-##Proceso de selección
-##Proceso de recopilación de datos
-##Lista de datos
-##Estudio y valoración del riesgo de sesgo
-##Medidas de efecto
-##Métodos de síntesis
-##Informar de la evaluación del sesgo
-##Evaluación de la certeza
-##Método de síntesis
+## Proceso de selección
+## Proceso de recopilación de datos
+## Lista de datos
+## Estudio y valoración del riesgo de sesgo
+## Medidas de efecto
+## Métodos de síntesis
+## Informar de la evaluación del sesgo
+## Evaluación de la certeza
+## Método de síntesis
 De las fuentes filtradas se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
 ##Evaluación de la certeza
 ##Método de síntesis
 De las fuentes filtradas se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
-##Evaluación de la certeza
-##Evaluación de la certeza
-##Método de síntesis
-De las fuentes filtradas se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
-##Evaluación de la certeza
-
-##Método de síntesis
-De las fuentes filtradas se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
-##Evaluación de la certeza
-
-De las fuentes filtradas se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
-##Evaluación de la certeza
-se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
-##Evaluación de la certeza
-eza
-
-##Proceso de selección
-##Proceso de recopilación de datos
-##Lista de datos
-##Estudio y valoración del riesgo de sesgo
-##Medidas de efecto
-##Métodos de síntesis
-##Informar de la evaluación del sesgo
-##Evaluación de la certeza
-##Método de síntesis
-De las fuentes filtradas se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
-##Evaluación de la certeza
-##Método de síntesis
-De las fuentes filtradas se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
-##Evaluación de la certeza
-##Evaluación de la certeza
-##Método de síntesis
-De las fuentes filtradas se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
-##Evaluación de la certeza
-
-##Método de síntesis
-De las fuentes filtradas se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
-##Evaluación de la certeza
-z
-De las fuentes filtradas se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
-##Evaluación de la certeza
-se extrajeron datos para evaluar la eficacia y seguridad del tratamiento así como el contexto en el que se recabaron los datos. La síntesis de los datos se realizó organizando la información de los estudios incluidos en tablas comparativas. Se extrajeron las características principales de cada ensayo, incluyendo autor, año, país, diseño metodológico, tamaño de muestra, características de la población, intervención, comparador, escalas de medición, desenlaces evaluados, resultados de respuesta y remisión, así como los eventos adversos reportados.
 ##Evaluación de la certeza

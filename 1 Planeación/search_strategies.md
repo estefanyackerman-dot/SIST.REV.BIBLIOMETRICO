@@ -1,6 +1,6 @@
 # Search strategies (PRISMA-S documentation)
 
-All searches executed on 27 August 2026. No language limit; no full-text availability limit.
+All searches executed on 5 September 2026. No language limit; no full-text availability limit.
 
 ## Bibliometric arm (broad strategies; reviews eligible)
 
