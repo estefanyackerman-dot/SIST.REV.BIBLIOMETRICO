@@ -78,3 +78,24 @@ remisión, funcionamiento, calidad de vida, eventos adversos y desenlaces
 suicidas. Este modelo permite interpretar la psilocibina dentro de una cadena
 causal compleja y evita atribuir a la molécula, de forma aislada, resultados
 que pueden depender del tratamiento completo.
+
+### 2.1.5. Uso tradicional, uso social y uso clínico
+
+En esta investigación se distinguen tres formas de relación con los hongos
+psilocíbicos. El uso tradicional se encuentra vinculado con sistemas
+mesoamericanos de conocimiento, ritualidad, comunidad y atención de la
+enfermedad; el uso social o recreativo busca experiencias sensoriales,
+emocionales o de pertenencia y no implica una indicación terapéutica; el uso
+clínico se realiza dentro de un protocolo con sustancia identificada, dosis
+controlada, selección de participantes, supervisión y seguimiento. Aunque las
+tres modalidades pueden compartir una experiencia psicoactiva, no son
+intercambiables como categorías de evidencia ni como prácticas de seguridad
+[@sharma2023; @pearson2022].
+
+Esta distinción es central para evitar dos errores frecuentes. El primero es
+presentar el conocimiento indígena como si constituyera un ensayo clínico
+moderno; el segundo es asumir que una experiencia recreativa equivale a una
+terapia asistida. El objeto de este estudio es la evidencia clínica, pero su
+interpretación se sitúa en una realidad social donde coexisten saberes
+ancestrales, consumo no supervisado y búsqueda de alternativas ante las
+limitaciones de los tratamientos convencionales.

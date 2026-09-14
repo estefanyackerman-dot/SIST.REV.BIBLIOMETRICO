@@ -20,6 +20,26 @@ responsable reconoce la continuidad histórica y, al mismo tiempo, respeta la
 autonomía cultural y la diferencia entre conocimiento tradicional y evidencia
 experimental.
 
+En el México antiguo, las categorías actuales de depresión y ansiedad no
+pueden trasladarse de manera literal a las cosmovisiones nahuas, mayas,
+mazatecas, zapotecas o mixtecas. Las fuentes históricas describen estados de
+tristeza, temor, aflicción y desequilibrio asociados con el cuerpo, la
+comunidad, la naturaleza y lo sagrado. La atención de estos estados combinaba
+prácticas empíricas, religiosas y comunitarias, y estaba a cargo de personas
+con funciones terapéuticas y rituales. Esta información es relevante porque
+permite comprender que el bienestar mental se construía de forma relacional,
+pero no autoriza a diagnosticar retrospectivamente trastornos modernos
+[@villasenor2002; @saavedra2016].
+
+Los hongos denominados *teonanácatl* aparecen en fuentes coloniales y en la
+historia etnobotánica de Mesoamérica como elementos de ceremonias, revelación y
+sanación. La persecución colonial y la posterior prohibición contribuyeron a
+desplazar estas prácticas hacia ámbitos discretos, aunque no eliminaron su
+continuidad comunitaria. La investigación contemporánea debe reconocer esta
+historia y, al mismo tiempo, distinguir la preparación ritual de los hongos
+silvestres de la administración clínica de psilocibina purificada
+[@estrada1987; @sahagun1938; @duran1967].
+
 ### 2.5.2. Aislamiento, investigación psicofarmacológica y expansión inicial
 
 El interés moderno se consolidó con la identificación de los principios

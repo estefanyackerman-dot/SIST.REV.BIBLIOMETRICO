@@ -36,8 +36,35 @@ pandoc "Marco teorico\00_introduccion.md" `
   --from markdown `
   --citeproc `
   --bibliography "ref.bib" `
-  --csl "ieee.csl" `
+  --csl "sage-vancouver-brackets.csl" `
+  --metadata reference-section-title="Referencias" `
   -o "Marco teorico\marco_teorico.docx"
+```
+
+El archivo `sage-vancouver-brackets.csl` produce citas numéricas entre
+corchetes, por ejemplo `[1]` o `[2,3]`, y organiza la lista final de
+referencias conforme al estilo SAGE Vancouver. Para que una fuente aparezca
+en la lista final debe estar citada en el texto con su clave BibTeX, por
+ejemplo `[@goodwin2022]`.
+
+También puede generarse una versión PDF o HTML:
+
+```powershell
+pandoc "Marco teorico\00_introduccion.md" `
+  "Marco teorico\01_fundamentos_conceptuales.md" `
+  "Marco teorico\02_bases_farmacologicas.md" `
+  "Marco teorico\03_evidencia_clinica.md" `
+  "Marco teorico\04_contexto_psicoterapeutico_regulatorio.md" `
+  "Marco teorico\06_antecedentes_historicos.md" `
+  "Marco teorico\07_legislacion_y_regulacion.md" `
+  "Marco teorico\05_integracion_metodologica.md" `
+  "Marco teorico\08_sintesis_capitular.md" `
+  --from markdown `
+  --citeproc `
+  --bibliography "ref.bib" `
+  --csl "sage-vancouver-brackets.csl" `
+  --metadata reference-section-title="Referencias" `
+  -o "Marco teorico\marco_teorico.html"
 ```
 
 Las referencias deben verificarse en Zotero antes del envío: algunas

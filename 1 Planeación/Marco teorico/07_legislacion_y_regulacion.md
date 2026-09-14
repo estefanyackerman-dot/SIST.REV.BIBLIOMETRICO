@@ -82,3 +82,23 @@ comprobarse en la legislación vigente, los reglamentos sanitarios y los
 criterios de las autoridades competentes antes de publicarse. La legislación
 se analizará como determinante contextual de la producción y aplicabilidad de
 la evidencia, nunca como sustituto de la evaluación clínica.
+
+### 2.6.6. México, Canadá y el problema de la implementación
+
+La comparación entre México y Canadá debe formularse como una comparación de
+condiciones de investigación e implementación, no como una clasificación de
+países más o menos favorables a la psilocibina. En México, el análisis debe
+considerar la legislación sanitaria y penal vigente, la protección de especies,
+los derechos culturales de los pueblos indígenas y las barreras de acceso a
+servicios especializados. En Canadá, la existencia de investigación clínica y
+de mecanismos excepcionales de acceso no equivale a una autorización general
+ni resuelve la distribución desigual del tratamiento [@davis2021;
+@delasalle2024].
+
+Desde una perspectiva de salud pública, ambos contextos comparten obligaciones:
+evitar la automedicación, comunicar límites de la evidencia, proteger a
+personas vulnerables y formar profesionales capaces de responder a eventos
+adversos. La diferencia principal se encuentra en las vías institucionales
+disponibles para investigar y atender casos excepcionales. Esta comparación
+orientará la discusión sin asumir que una política canadiense puede trasladarse
+directamente al sistema mexicano.

@@ -71,3 +71,23 @@ de los participantes, selección de muestras, pérdidas diferenciales,
 medición post hoc, publicación selectiva y patrocinio. La interpretación debe
 integrar riesgo de sesgo, precisión, consistencia, aplicabilidad y certeza
 global de la evidencia, no solamente la significación estadística.
+
+### 2.3.5. Evidencia internacional y pertinencia para México
+
+Los estudios desarrollados en Estados Unidos, Reino Unido y Canadá concentran
+una parte importante de la evidencia clínica contemporánea. La investigación
+canadiense resulta especialmente pertinente para este trabajo porque combina
+ensayos y experiencias de acceso compasivo en un marco regulatorio todavía
+restrictivo, pero con vías excepcionales de autorización. Estos datos muestran
+que la disponibilidad de una vía legal no elimina las preguntas sobre
+selección de pacientes, capacitación profesional, costos, seguimiento y
+equidad de acceso [@davis2021; @delasalle2024].
+
+La extrapolación a México debe hacerse con cautela. Las diferencias en
+organización sanitaria, regulación, desigualdad, formación profesional,
+tradiciones indígenas y patrones de consumo pueden modificar tanto la
+aceptabilidad como la efectividad de la intervención. Por ello, la producción
+científica de países con mayor infraestructura no debe utilizarse como
+equivalente automático de evidencia de implementación mexicana; debe servir
+como referencia comparativa para identificar condiciones, brechas y prioridades
+de investigación.

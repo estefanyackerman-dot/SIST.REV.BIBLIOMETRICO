@@ -70,3 +70,22 @@ generar expectativas desproporcionadas, favorecer la automedicación y
 dificultar una decisión verdaderamente informada. Por ello, la evidencia debe
 comunicarse diferenciando plausibilidad biológica, eficacia experimental y
 efectividad en la práctica habitual.
+
+### 2.4.5. Uso social, reducción de riesgos y acompañamiento profesional
+
+El consumo social puede incluir búsqueda de placer, intensificación sensorial,
+introspección o interacción grupal, pero también exposición a dosis inciertas,
+mezclas de sustancias, ambientes impredecibles y ausencia de atención ante una
+reacción adversa. La diferencia entre este escenario y un protocolo clínico no
+es moral, sino operacional: en el segundo existe evaluación previa, control de
+la sustancia, personal capacitado, observación y plan de contingencia. Los
+efectos subjetivos descritos en personas sanas tampoco permiten inferir un
+beneficio terapéutico en pacientes [@stud2011; @johnson2008].
+
+Desde la perspectiva de esta investigación, el acompañamiento profesional no
+debe confundirse con la autoridad ritual ni con la promesa de una experiencia
+espiritual. Su función clínica consiste en proteger la autonomía, reconocer
+signos de descompensación, limitar riesgos previsibles y favorecer una
+integración no impositiva. Esta formulación permite reconocer la importancia
+histórica de los acompañantes tradicionales sin apropiarse de sus saberes ni
+presentarlos como sustitutos de la regulación sanitaria contemporánea.
