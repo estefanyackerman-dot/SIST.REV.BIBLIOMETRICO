@@ -159,6 +159,20 @@ como fuentes complementarias de preprints.
 También se planificó revisar las referencias de los ensayos incluidos y de
 revisiones sistemáticas recientes.
 
+La siguiente tabla resume el nombre y la ubicación de las fuentes consultadas y
+los archivos principales del repositorio donde se registran sus resultados:
+
+| Fuente | Tipo | Ubicación en el repositorio |
+| --- | --- | --- |
+| Web of Science Core Collection | base bibliográfica y metaanalítica | [`search_strategies.md`](./search_strategies.md); archivos de flujo y conteos en [`data/prisma_2020_source_counts.csv`](../data/prisma_2020_source_counts.csv) y [`../psilocybin-bibliometrics-2026-main/results/vosviewer_dual/01_core_WOS_Scopus_PubMed`](../psilocybin-bibliometrics-2026-main/results/vosviewer_dual/01_core_WOS_Scopus_PubMed) |
+| Scopus | base bibliográfica | [`search_strategies.md`](./search_strategies.md); análisis del corpus en [`../psilocybin-bibliometrics-2026-main/results/vosviewer_dual/01_core_WOS_Scopus_PubMed`](../psilocybin-bibliometrics-2026-main/results/vosviewer_dual/01_core_WOS_Scopus_PubMed) |
+| PubMed | base bibliográfica y metaanalítica | [`search_strategies.md`](./search_strategies.md); conteos del flujo en [`data/prisma_2020_source_counts.csv`](../data/prisma_2020_source_counts.csv) y corpus derivado en [`../psilocybin-bibliometrics-2026-main/results/vosviewer_dual/01_core_WOS_Scopus_PubMed`](../psilocybin-bibliometrics-2026-main/results/vosviewer_dual/01_core_WOS_Scopus_PubMed) |
+| Ovid (Referencias/Abstracts/Revistas suscritas) | base metaanalítica | [`search_strategies.md`](./search_strategies.md); flujo resumido en [`data/prisma_2020_flow_counts.csv`](../data/prisma_2020_flow_counts.csv) |
+| Cochrane CENTRAL | base metaanalítica | [`search_strategies.md`](./search_strategies.md) |
+| APA PsycInfo | base metaanalítica | [`search_strategies.md`](./search_strategies.md) |
+| Europe PMC | fuente complementaria de preprints | [`search_strategies.md`](./search_strategies.md) |
+| medRxiv | fuente complementaria de preprints | [`search_strategies.md`](./search_strategies.md) |
+
 Las estrategias completas, las fechas, los filtros y los enlaces de consulta
 se conservan en [`search_strategies.md`](./search_strategies.md). Las cadenas
 combinaron variantes de `psilocybin`, `psilocibin` y `psilocybe` con términos
